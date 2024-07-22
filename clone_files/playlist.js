@@ -1,8 +1,8 @@
 const playlist = [
   {
-    title: "MELTDOWN ft. Drake",
-    file: "clone_files/audio_3.mp3",
-    artist: "Travis Scott",
+    title: "7AM",
+    file: "clone_files/7AM.mp3",
+    artist: "Adrian",
   },
 ];
 
